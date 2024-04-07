@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+multimodal/__init__.py
+multimodal_component.egg-info/PKG-INFO
+multimodal_component.egg-info/SOURCES.txt
+multimodal_component.egg-info/dependency_links.txt
+multimodal_component.egg-info/requires.txt
+multimodal_component.egg-info/top_level.txt
